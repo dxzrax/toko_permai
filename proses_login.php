@@ -12,7 +12,7 @@ $result = mysqli_query($conn, $query);
 
 if (mysqli_num_rows($result) == 1) {
     $user = mysqli_fetch_assoc($result);
-    $_SESSION['user_id'] = $data['id'];
+    $_SESSION['user_id'] = $user['id'];
     $_SESSION['email'] = $user['email'];
     $_SESSION['role'] = $user['role'];
     $_SESSION['nama'] = $user['nama'];
