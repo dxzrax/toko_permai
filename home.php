@@ -76,7 +76,6 @@ if (!isset($_SESSION['role']) || $_SESSION['role'] != 'user') {
         <li><a href="#produk" class="page-scroll">Produk</a></li>
         <li><a href="#portfolio" class="page-scroll">Gallery</a></li>
         <li><a href="#contact" class="page-scroll">Pesan</a></li>
-        <li><a href="profil.php" class="page-scroll">profil</a></li>
         <!-- Dropdown Menu -->
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
