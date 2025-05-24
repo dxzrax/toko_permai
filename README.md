@@ -1,2 +1,3 @@
-# toko_permai
-tugas akhir implementasi dan evaluasi tentang toko sewa kamera &amp; lensa terdapat juga jasa fotografer.
+Tugas UAS Kelompok 5 - Implementasi dan Evaluasi Sistem Informasi
+Toko Permai - Penyewaan Kamera, Lensa, dan Jasa Fotografi
+SEPTEO RIANSYAH PUTRA 2271020156
